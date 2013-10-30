@@ -1,0 +1,10 @@
+﻿var ERR_AUTH = 'Tên đăng nhập hoặc mật khẩu không đúng';
+var ERR_CAPTCHA = 'Mã xác nhận hình ảnh không đúng';
+var ERR_AUTH = 'Tên đăng nhập hoặc mật khẩu không đúng';
+var ERR_AUTH = 'Tên đăng nhập hoặc mật khẩu không đúng';
+var ERR_PASSWORD = 'Mật khẩu ít nhất 4 ký tự.';
+var ERR_DEFAULT_PASS = 'Bạn phải nhập mật khẩu hiện tại.';
+var ERR_DEFAULT_CAPTCHA = 'Bạn phải nhập mã xác nhận.';
+var ERR_DEFAULT_NEWPASS = 'Bạn phải nhập mật khẩu mới.';
+var ERR_NEW_PASSWORD = 'Mật khẩu mới ít nhất 6 ký tự.';
+var ERR_CONFIRM_PASSWORD = 'Xác nhận mật khẩu không đúng.';
